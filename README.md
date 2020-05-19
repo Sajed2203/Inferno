@@ -1,2 +1,2 @@
 # Inferno
-# As simple and solid a soul can be
+As simple and solid a soul can be
